@@ -16,7 +16,6 @@ import com.paulovarassin.cursomc.repositories.CategoriaRepository;
 import com.paulovarassin.cursomc.services.exceptions.DataIntegrityException;
 import com.paulovarassin.cursomc.services.exceptions.ObjectNotFoundException;
 
-
 @Service
 public class CategoriaService {
 
